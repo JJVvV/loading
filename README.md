@@ -1,8 +1,6 @@
 # loading
 
 
-##Demo
+### Demo
 
-
-
-![](res/img/loading.gif)
+![](http://omier3ioy.bkt.clouddn.com/loading5.gif)
