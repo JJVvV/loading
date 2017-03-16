@@ -1,5 +1,4 @@
-# loading
-
+# loading(Inspired by google plus)
 
 ### Demo
 
