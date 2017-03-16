@@ -1,4 +1,5 @@
-# loading(Inspired by google plus)
+# loading
+A loading with CSS. Inspired by google plus.
 
 ### Demo
 
