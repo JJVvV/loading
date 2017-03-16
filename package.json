@@ -1,0 +1,24 @@
+{
+  "name": "loading",
+  "version": "1.0.0",
+  "description": "android loading by css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJVvV/loading.git"
+  },
+  "keywords": [
+    "loading",
+    "css",
+    "animation"
+  ],
+  "author": "Alex Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJVvV/loading/issues"
+  },
+  "homepage": "https://github.com/JJVvV/loading#readme"
+}
