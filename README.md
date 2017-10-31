@@ -1,5 +1,5 @@
 # loading
-A loading with CSS. Inspired by google plus.
+A loading with CSS. Inspired by google plus.[Demo](https://jjvvv.github.io/loading/)
 
 ### Demo
 
